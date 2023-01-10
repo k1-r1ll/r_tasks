@@ -1,4 +1,4 @@
-# Statistical task accomplished with R
+# Statistical tasks accomplished with R
 
 ## 1. File ‘anova_tasks’
 Contains several tasks.

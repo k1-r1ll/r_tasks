@@ -17,3 +17,22 @@ Contains the following tasks.
 ### Task 2. Create a counter function for NA data in vector.
 ### Task 3. Create a function that returns the sum of a positive elements of the vector.
 ### Task 4. Create a function that finds and removes outliers from the vector.
+
+## 3. File ‘correlation_tasks’
+Contains the following tasks.
+### Task 1. Function for correlation data
+**Goal:** create a function ‘corr.calc’ which takes a two-column data-frame and returns vector with Pearson correlation coefficient and p-value.
+### Task 2. Correlation between all pairs of numeric variables
+**Goal:** create function ‘filtered.cor’ that takes data.frame with a free number of variables (both quantitative and any other types),
+calculates Pearson correlation coefficient between all pairs of numeric variables and returns coefficient with the highest module.
+# of numeric variables and returns coefficient with the highest module
+### Task 3. Function for Spearman/Pearson coefficient with Shapiro-Wilk test check
+**Goal:** create function ‘smart_cor’ for Spearman/Pearson coefficient with Shapiro-Wilk test pre-check if variable distributions are normal.
+### Task 4. Linear regression for a subset
+**Goal:** build a linear regression for diamonds data subset from the ggplot2 library.
+### Task 5. Regression model with Pearson correlation coefficient check and updated dataframe
+**Goal:** create function ‘regr.calc’ that updates dataframe with predicted values for dependent variable.
+### Task 6. Linear regression data
+**Goal:** get the intercept and slope for the dataframe.
+### Task 7. Visualization for linear regression
+**Goal:** create a scatterplot for the iris data.

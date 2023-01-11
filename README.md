@@ -18,6 +18,8 @@ Contains the following tasks.
 ### Task 3. Create a function that returns the sum of a positive elements of the vector.
 ### Task 4. Create a function that finds and removes outliers from the vector.
 
+
+
 ## 3. File ‘correlation_tasks’
 Contains the following tasks.
 ### Task 1. Function for correlation data

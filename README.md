@@ -25,7 +25,6 @@ Contains the following tasks.
 ### Task 2. Correlation between all pairs of numeric variables
 **Goal:** create function ‘filtered.cor’ that takes data.frame with a free number of variables (both quantitative and any other types),
 calculates Pearson correlation coefficient between all pairs of numeric variables and returns coefficient with the highest module.
-# of numeric variables and returns coefficient with the highest module
 ### Task 3. Function for Spearman/Pearson coefficient with Shapiro-Wilk test check
 **Goal:** create function ‘smart_cor’ for Spearman/Pearson coefficient with Shapiro-Wilk test pre-check if variable distributions are normal.
 ### Task 4. Linear regression for a subset

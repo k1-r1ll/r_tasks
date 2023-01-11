@@ -20,7 +20,7 @@ Contains the following tasks.
 ### Task 4. Create a function that finds and removes outliers from the vector.
 <br>
 
-## 3. File ‘correlation_tasks’
+## 3. File ‘correlation_regression_tasks’
 Contains the following tasks.
 ### Task 1. Function for correlation data
 **Goal:** create a function ‘corr.calc’ which takes a two-column data-frame and returns vector with Pearson correlation coefficient and p-value.

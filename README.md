@@ -37,6 +37,7 @@ calculates Pearson correlation coefficient between all pairs of numeric variable
 **Goal:** get the intercept and slope for the dataframe.
 ### Task 7. Visualization for linear regression
 **Goal:** create a scatterplot for the iris data.
+<br>
 
 ## 4. File ‘multiple_linear_regression’
 Contains the following tasks.
@@ -50,5 +51,4 @@ Contains the following tasks.
 **Goal:** build a regression model.
 ### Task 5. Regression vesualization
 **Goal:** to visualize interaction of two predictor.
-<br>
 <br>

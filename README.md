@@ -11,6 +11,7 @@ Contains several tasks.
 **Goal 2:** to check influence of such factors as doctor, pill and their interaction on temperature, considering both within-group variables
 (the same patient takes different pills and the same patient is treated by different doctors).
 <br>
+<br>
 
 ## 2. File ‘function_tasks’
 Contains the following tasks.

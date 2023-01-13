@@ -38,6 +38,7 @@ calculates Pearson correlation coefficient between all pairs of numeric variable
 ### Task 7. Visualization for linear regression
 **Goal:** create a scatterplot for the iris data.
 <br>
+<br>
 
 ## 4. File ‘multiple_linear_regression’
 Contains the following tasks.

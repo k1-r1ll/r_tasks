@@ -52,5 +52,24 @@ Contains the following tasks.
 ### Task 4. Linear regression model with two predictors
 **Goal:** build a regression model.
 ### Task 5. Regression vesualization
-**Goal:** to visualize interaction of two predictor.
+**Goal:** to visualize interaction of two predictors.
 <br>
+<br>
+
+## 5. File ‘regression_model_analysis’
+Contains the following tasks.
+### Task 1. Finding an appropriate prediction model.
+**Goal:** creating a regression model for a new dataset and comparing it with the old one (with anova test).
+### Task 2. Predicting a feature
+**Goal:** include in regression model all the quantitative predictors of the dataset.
+### Task 3. Standardized coefficients for regression model
+**Goal:** check standardized coefficients for dataset with two features.
+### Task 4. Normal distribution of variables
+**Goal:** create function, that check each variable of dataframe for normal distribution (with 'shapiro.test' function).
+### Task 5. Distribution of model residuals
+**Goal:** create function that check distribution of model residuals.
+### Task 6. The highest correlation coefficient
+**Goal:** create function 'high.corr' that returns vector with names of two variables that have the highest correlation coefficient in the dataset.
+<br>
+<br>
+

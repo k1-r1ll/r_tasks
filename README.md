@@ -73,3 +73,15 @@ Contains the following tasks.
 <br>
 <br>
 
+## 6. File ‘logistic_regression’
+Contains the following tasks.
+### Task 1. Building logistic regression model
+**Goal:** build a logistic regression model for ‘mtcars’ dataset.
+### Task 2. Presenting variable differences
+**Goal:** build a boxplot that shows differences for feature ‘len’ according to the dosing and product variables (dataset ‘ToothGrowth.’).
+### Task 3. Correlation check function
+**Goal:** create a function that returns variable names with the highest correlation coefficient from dataset.
+### Task 4. Prediction with logistic regression
+**Goal:** predict university admission results.
+<br>
+<br>
